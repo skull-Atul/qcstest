@@ -1,4 +1,4 @@
 #!/bin/bash
 
 uname -a 
-ifconfig
+date
